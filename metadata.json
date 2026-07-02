@@ -1,0 +1,6 @@
+{
+  "name": "Personal Finance Analyzer",
+  "description": "A refined full-stack finance analytics dashboard to parse bank statements, categorize transactions, analyze monthly spending trends, compute financial health scores, and query an AI financial advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
